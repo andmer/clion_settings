@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="E:/projects" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

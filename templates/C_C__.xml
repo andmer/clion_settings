@@ -1,0 +1,12 @@
+<templateSet group="C/C++">
+  <template name="endl" value="&lt;&lt; std::endl$END$" description="endl" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="cout" value="std::cout &lt;&lt; $END$" description="cout" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>

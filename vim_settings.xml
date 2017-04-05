@@ -1,0 +1,142 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/ClionProjects/tesbed/reverse.cpp" timestamp="1490214731503">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3dhcChmaXJzdCwgbGFzdCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkaXN0YW5jZSAtPSAyOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAqbGFzdCA9IHRtcDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAqZmlyc3QrKyA9ICotLWxhc3Q7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIHRtcCA9ICpmaXJzdDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIChkaXN0YW5jZSA+IDApIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0tZGlzdGFuY2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGF1dG8gZGlzdGFuY2UgPSBzdGQ6OmRpc3RhbmNlKGZpcnN0LCBsYXN0KTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3dhcChmaXJzdCwgbGFzdCk7Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
