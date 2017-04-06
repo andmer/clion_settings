@@ -1,0 +1,34 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CPPToolchains">
+    <option name="cygwinHomePath" value="C:\cygwin64" />
+    <option name="detectedVersion" value="5" />
+    <option name="winEnvironment" value="CYGWIN" />
+  </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="windows" />
+    <executeWithDefaultAppCommand value="rundll32.exe url.dll,FileProtocolHandler $FilePath$" tokenizerDelims="" />
+    <showInFileManagerCommand value="explorer.exe /select,$FilePath$" tokenizerDelims="" />
+    <openCommandShellInCommand value="cmd /c &quot;$PluginsHome$\NativeNeighbourhood\classes\org\intellij\plugins\nativeNeighbourhood\icons\windows\cmd.bat&quot;" tokenizerDelims="" />
+    <selectInFileManagerName value="Windows Explorer" />
+    <nativeExtensions value="" />
+  </component>
+</application>

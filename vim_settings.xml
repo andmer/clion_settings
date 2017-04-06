@@ -1,48 +1,106 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ClionProjects/tesbed/reverse.cpp" timestamp="1490214731503">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/fxcmfix.h" timestamp="1490491805337">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+      </file>
+      <file name="/GDB" timestamp="1491095830975">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/CMakeLists.txt" timestamp="1490409439769">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/ios.h" timestamp="1490409397114">
+        <mark key="'" line="28" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1490483574983">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/singleton/CMakeLists.txt" timestamp="1491350693850">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="19" column="61" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/singleton/singleton.h" timestamp="1490923932667">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="49" column="27" />
+        <mark key="." line="49" column="27" />
+        <mark key="^" line="49" column="27" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/singleton/main.cpp" timestamp="1491348094344">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="/usr/local/include/fix8/session.hpp" timestamp="1490403868769">
+        <mark key="'" line="506" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/CMakeLists.txt" timestamp="1491348818977">
+        <mark key="'" line="31" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/RelaySession.cpp" timestamp="1490408913598">
+        <mark key="'" line="63" column="33" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="63" column="33" filename="$USER_HOME$/projects/cpp/gilead_fix8/RelaySession.cpp" />
+      <jump line="506" column="0" filename="/usr/local/include/fix8/session.hpp" />
+      <jump line="31" column="25" filename="$USER_HOME$/projects/cpp/gilead_fix8/CMakeLists.txt" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/CMakeLists.txt" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/ios.h" />
+      <jump line="234" column="0" filename="$USER_HOME$/projects/cpp/gilead_fix8/gen/FxcmFix_classes.cpp" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWRkX2N4eF9jb21waWxlcl9mbGFnKC1sYm9vc3RfcmVnZXgpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>-</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3dhcChmaXJzdCwgbGFzdCk7Cg==</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNpbmdsZXRvbiAke0Jvb3N0X0xJQlJBUklFU30gZnhjbV9maXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">YWRkX2N4eF9jb21waWxlcl9mbGFnKC1sYm9vc3RfcmVnZXgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0YW5jZSAtPSAyOwo=</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNpbmdsZXRvbiAke0Jvb3N0X0xJQlJBUklFU30gZnhjbV9maXgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqbGFzdCA9IHRtcDsK</text>
+        <text encoding="base64">bGlua19kaXJlY3Rvcmllcygke0Jvb3N0X0xJQlJBUllfRElSfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAqZmlyc3QrKyA9ICotLWxhc3Q7Cg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke0Jvb3N0X0lOQ0xVREVfRElSfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRtcCA9ICpmaXJzdDsK</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKEJvb3N0IENPTVBPTkVOVFMgc3lzdGVtIGZpbGVzeXN0ZW0gUkVRVUlSRUQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChkaXN0YW5jZSA+IDApIHsK</text>
+        <text encoding="base64">c2V0KEJvb3N0X0xJQlJBUllfRElSIC9ob21lL2FuZG1lci9vcHQvYm9vc3RfMV82M18wKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tZGlzdGFuY2U7Cg==</text>
+        <text encoding="base64">c2V0KEJvb3N0X0lOQ0xVREVfRElSIC9ob21lL2FuZG1lci9vcHQvYm9vc3RfMV82M18wKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGlzdGFuY2UgPSBzdGQ6OmRpc3RhbmNlKGZpcnN0LCBsYXN0KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">L3Vzci9sb2NhbC9zcmMvYm9vc3RfMV80Nl8xL3N0YWdlL2xpYikKZmluZF9wYWNrYWdlKEJvb3N0IENPTVBPTkVOVFMgc3lzdGVtIGZpbGVzeXN0ZW0gUkVRVUlSRUQpCmluY2x1ZGVfZGlyZWN0b3JpZXMoJHtCb29zdF9JTkNMVURFX0RJUn0pCmxpbmtfZGlyZWN0b3JpZXMoJHtCb29zdF9MSUJSQVJZX0RJUn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3dhcChmaXJzdCwgbGFzdCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -51,19 +109,16 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
@@ -93,6 +148,12 @@
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -100,9 +161,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
@@ -130,6 +188,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
