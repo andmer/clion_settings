@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="hide">
+      <action id="ViewStatusBar" />
+      <action id="ViewToolButtons" />
+      <action id="ViewToolBar" />
+    </macro>
+  </component>
+</application>
