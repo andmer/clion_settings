@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/GDB" timestamp="1491095830975">
@@ -68,11 +68,11 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/ClionProjects/tesbed/main.cpp" timestamp="1492805789210">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
+      <file name="$USER_HOME$/ClionProjects/tesbed/main.cpp" timestamp="1493145850432">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
       </file>
       <file name="$USER_HOME$/ClionProjects/tesbed/CMakeLists.txt" timestamp="1492804468218">
         <mark key="[" line="3" column="40" />
