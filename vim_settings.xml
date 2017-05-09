@@ -1,15 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/GDB" timestamp="1491095830975">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cpp/singleton/main.cpp" timestamp="1494341345086">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/CMakeLists.txt" timestamp="1490409439769">
         <mark key="'" line="15" column="0" />
@@ -20,6 +15,31 @@
       </file>
       <file name="/a.dummy" timestamp="1490483574983">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cpp/singleton/CMakeLists.txt" timestamp="1491440571588">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+      </file>
+      <file name="/usr/local/include/fix8/session.hpp" timestamp="1490403868769">
+        <mark key="'" line="506" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/singleton/CMakeLists.txt" timestamp="1491440296290">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="19" column="61" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/singleton/main.cpp" timestamp="1491348094344">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/fxcmfix.h" timestamp="1490491805337">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/CLionProjects/singleton/singleton.h" timestamp="1490923932667">
         <mark key="[" line="48" column="64" />
@@ -33,19 +53,14 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/singleton/main.cpp" timestamp="1491348094344">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/projects/cpp/singleton/main.cpp" timestamp="1492726999123">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="/usr/local/include/fix8/session.hpp" timestamp="1490403868769">
-        <mark key="'" line="506" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cpp/singleton/CMakeLists.txt" timestamp="1491440571588">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/ios.h" timestamp="1490409397114">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cpp/gilead_fix8/RelaySession.cpp" timestamp="1490408913598">
         <mark key="'" line="63" column="33" />
@@ -53,19 +68,14 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cpp/gilead_fix8/fxcmfix.h" timestamp="1490491805337">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
+      <file name="$USER_HOME$/ClionProjects/tesbed/main.cpp" timestamp="1493145850432">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/singleton/CMakeLists.txt" timestamp="1491440296290">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="19" column="61" />
-      </file>
-      <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/ios.h" timestamp="1490409397114">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/ClionProjects/tesbed/CMakeLists.txt" timestamp="1492804468218">
+        <mark key="[" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cpp/gilead_fix8/CMakeLists.txt" timestamp="1491348818977">
         <mark key="'" line="31" column="25" />
@@ -83,43 +93,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgVCYgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>What</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNpbmdsZXRvbiAke0Jvb3N0X0xJQlJBUklFU30gZnhjbV9maXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgVCYgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYm9vc3Q6OnJlZ2V4X21hdGNoKGxpbmUsIG1hdGNoZXMsIHBhdCkpIHN0ZDo6Y291dCA8PCBtYXRjaGVzWzJdIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29zdDo6c21hdGNoIG1hdGNoZXM7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmdldGxpbmUoc3RkOjpjaW4sIGxpbmUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNpbikgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYm9vc3Q6OnJlZ2V4X21hdGNoKGxpbmUsIG1hdGNoZXMsIHBhdCkpIHN0ZDo6Y291dCA8PCBtYXRjaGVzWzJdIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29zdDo6c21hdGNoIG1hdGNoZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvb3N0OjpyZWdleCBwYXQoICJeU3ViamVjdDogKFJlOiB8QXc6ICkqKC4qKSIgKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmdldGxpbmUoc3RkOjpjaW4sIGxpbmUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGxpbmU7Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNpbikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkX2N4eF9jb21waWxlcl9mbGFnKC1sYm9vc3RfcmVnZXgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -130,10 +140,10 @@
       <history-search />
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>set vim-surround</entry>
         <entry>set surroudn</entry>
         <entry>set surround</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
