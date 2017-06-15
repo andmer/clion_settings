@@ -6,11 +6,11 @@
       <file name="/GDB" timestamp="1491095830975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cpp/singleton/main.cpp" timestamp="1492726999123">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/projects/cpp/singleton/main.cpp" timestamp="1497401319184">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/CMakeLists.txt" timestamp="1490409439769">
         <mark key="'" line="15" column="0" />
@@ -68,6 +68,9 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/cpp/singleton/singleton.h" timestamp="1497401195109">
+        <mark key="." line="19" column="27" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/singleton/CMakeLists.txt" timestamp="1491440296290">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -92,11 +95,11 @@
       <jump line="32" column="11" filename="$USER_HOME$/ClionProjects/singleton/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgVCYgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNpbmdsZXRvbiAke0Jvb3N0X0xJQlJBUklFU30gZnhjbV9maXgpCg==</text>
