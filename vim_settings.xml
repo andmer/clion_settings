@@ -6,11 +6,11 @@
       <file name="/GDB" timestamp="1491095830975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cpp/singleton/main.cpp" timestamp="1497401319184">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="16" column="4" />
+      <file name="$USER_HOME$/projects/cpp/singleton/main.cpp" timestamp="1497543205700">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/projects/cpp/gilead_fix8/lib/date/CMakeLists.txt" timestamp="1490409439769">
         <mark key="'" line="15" column="0" />
@@ -96,40 +96,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNpbmdsZXRvbiAke0Jvb3N0X0xJQlJBUklFU30gZnhjbV9maXgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXBcbiIsICZpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgVCYgCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXBcbiIsICZpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXBcbiIsIHBwaSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYm9vc3Q6OnJlZ2V4X21hdGNoKGxpbmUsIG1hdGNoZXMsIHBhdCkpIHN0ZDo6Y291dCA8PCBtYXRjaGVzWzJdIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXBcbiIsIHBpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29zdDo6c21hdGNoIG1hdGNoZXM7Cg==</text>
+        <text encoding="base64">Y29uc3QgVCYgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmdldGxpbmUoc3RkOjpjaW4sIGxpbmUpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzdGQ6OmNpbikgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
