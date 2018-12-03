@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2513de8-5644-407b-8468-cff1f1bd9be1" name="vm ubuntu (c2513de8-5644-407b-8468-cff1f1bd9be1)" url="http:///">
+        <fileTransfer host="192.168.109.130" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

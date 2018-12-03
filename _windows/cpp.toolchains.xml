@@ -1,0 +1,7 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="vm ubuntu" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="c2513de8-5644-407b-8468-cff1f1bd9be1" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+    </toolchains>
+  </component>
+</application>
