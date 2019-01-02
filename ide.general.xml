@@ -10,5 +10,6 @@
     <entry key="clion.enable.msvc" value="true" />
     <entry key="linux.native.menu" value="true" />
     <entry key="clion.remote.tar.timeout" value="0" />
+    <entry key="clion.remote.resync.system.cache" value="false" />
   </component>
 </application>
